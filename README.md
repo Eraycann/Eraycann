@@ -37,14 +37,6 @@
 <a href="http://www.github.com/Eraycann"><img src="https://github-readme-streak-stats.herokuapp.com?user=Eraycann&theme=radical&hide_border=true&border_radius=5&short_numbers=true" /></a>
 </p>
   
- <p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eraycann/Eraycann/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eraycann/Eraycann/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eraycann/Eraycann/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
-
 <!---
 Eraycann/Eraycann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
