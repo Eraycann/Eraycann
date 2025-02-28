@@ -19,7 +19,7 @@
 ### <p align="center">My GitHub Stats</p>
 
 <p align="center">
- <a href="http://www.github.com/Eraycann"><img src="https://github-profile-trophy.vercel.app/?username=Eraycann&theme=onedark&column=3"  alt="Eraycann's GitHub stats" />
+ <a href="http://www.github.com/Eraycann"><img src="https://github-profile-trophy.vercel.app/?username=Eraycann&theme=onedark&column=8"  alt="Eraycann's GitHub stats" />
 </p>
 
 <p align="center">
