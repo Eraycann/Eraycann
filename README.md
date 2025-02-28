@@ -11,7 +11,7 @@
  
 - 💪🏻  I'm **Jr. Full Stack Java Developer**
 - 👀  I’m interested in: **🔐Web Security & Secure Software Development** and **🤖Machine Learning** and **📊Data Analysis**
-- 🌱  I’m currently learning: **Backend Technologies and Project Management**    
+- 🌱  I’m currently learning: **Backend Technologies** and **Project Management**    
 - 📫  Contact with me! **[linkedin/eraycan-sivri](https://www.linkedin.com/in/eraycan-sivri-827997226/)**
 
 ---
