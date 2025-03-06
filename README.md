@@ -16,6 +16,15 @@
 
 ---
 
+## Technology Stack
+
+<!-- https://github.com/tandpfun/skill-icons -->
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,postgres,docker,redis,rabbitmq,aws,bootstrap,css,dotnet,eclipse,elasticsearch,gradle,hibernate,html,js,linux,kubernetes,maven,nodejs,npm,ubuntu,windows)](https://skillicons.dev)
+
+</div>
+
 ### <p align="center">My GitHub Stats</p>
 
 <p align="center">
