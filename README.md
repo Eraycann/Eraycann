@@ -8,31 +8,46 @@
 ---
 
 ### <p align="center">About Me</p>
- 
-- 💪🏻  I'm **Jr. Full Stack Java Developer**
-- 👀  I’m interested in: **🔐Web Security & Secure Software Development** and **🤖Machine Learning** and **📊Data Analysis**
-- 🌱  I’m currently learning: **Backend Technologies** and **Project Management**    
-- 📫  Contact with me! **[linkedin/eraycan-sivri](https://www.linkedin.com/in/eraycan-sivri-827997226/)**
+
+<p align="center">
+Bilgisayar Mühendisliği son sınıf öğrencisiyim. Backend tarafında Java ve Spring Boot ağırlıklı çalışıyor, veritabanı optimizasyonundan DevOps orkestrasyonuna kadar sistemin tüm yaşam döngüsüyle ilgileniyorum. Geleneksel yazılım geliştirme süreçlerine ek olarak; RAG mimarileri, MCP'ler ve AI Agent'lar ile otonom çözümler geliştiriyorum. Yazılım geliştirme sürecindeki temel amacım, ölçeklenebilir altyapılarla yapay zeka çözümlerini verimli bir şekilde bir araya getirmek.
+</p>
+
+<div align="center">
+
+📫 **Contact with me:** [linkedin/eraycan-sivri](https://www.linkedin.com/in/eraycan-sivri-827997226/)
+
+</div>
 
 ---
 
-## Technology Stack
+### <p align="center">Tech Stack & Vision</p>
+
+*   ⚡ **Core Tech:** Java | Python | Spring Boot | Spring Cloud | Spring WebFlux | Microservices
+*   🛠️ **Architecture & Infra:** gRPC | GraphQL | RabbitMQ | Keycloak | Docker Swarm | AWS S3 | PostgreSQL | MongoDB | Redis | Elasticsearch
+*   🤖 **AI, Vision & Orchestration:** YOLO11 | RAG | LangChain | Spring AI | MCP | AI Agents | ChromaDB
+
+---
+
+### <p align="center">Technology Stack</p>
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,react,mysql,mongodb,postgres,docker,redis,rabbitmq,aws,bootstrap,css,dotnet,eclipse,elasticsearch,gradle,hibernate,html,js,linux,kubernetes,maven,nodejs,npm,ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,spring,hibernate,react,postgres,mongodb,mysql,elasticsearch,redis,graphql,rabbitmq,docker,kubernetes,aws,git,github,linux,maven,gradle)](https://skillicons.dev)
 
 </div>
+
+---
 
 ### <p align="center">My GitHub Stats</p>
 
 <p align="center">
- <a href="http://www.github.com/Eraycann"><img src="https://github-profile-trophy.vercel.app/?username=Eraycann&theme=onedark&column=8"  alt="Eraycann's GitHub stats" />
+ <a href="http://www.github.com/Eraycann"><img src="https://github-profile-trophy.vercel.app/?username=Eraycann&theme=onedark&column=8"  alt="Eraycann's GitHub stats" /></a>
 </p>
 
 <p align="center">
- <a href="http://www.github.com/Eraycann"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eraycann&theme=radical&layout=compact&langs_count=8"  alt="Eraycann's GitHub stats" />
+ <a href="http://www.github.com/Eraycann"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eraycann&theme=radical&layout=compact&langs_count=8"  alt="Eraycann's GitHub stats" /></a>
 </p>
 
 <p align="center">
@@ -40,7 +55,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Eraycann&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Eraycann's GitHub Stats"/>
   </a>
 </p>
-
 
 <p align="center">
 <a href="http://www.github.com/Eraycann"><img src="https://github-readme-streak-stats.herokuapp.com?user=Eraycann&theme=radical&hide_border=true&border_radius=5&short_numbers=true" /></a>
