@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <p><b>Bilgisayar Mühendisliği son sınıf öğrencisiyim.</b> Backend tarafında Java ve Spring Boot ağırlıklı çalışıyor, veritabanı optimizasyonundan DevOps orkestrasyonuna kadar sistemin tüm yaşam döngüsüyle ilgileniyorum. Geleneksel yazılım geliştirme süreçlerine ek olarak; RAG mimarileri, MCP'ler ve AI Agent'lar ile otonom çözümler geliştiriyorum. Yazılım geliştirme sürecindeki temel amacım, ölçeklenebilir altyapılarla yapay zeka çözümlerini verimli bir şekilde bir araya getirmek.</p>
+  <p><b>Bilgisayar Mühendisliğiyim </b> Backend tarafında Java ve Spring Boot ağırlıklı çalışıyor, veritabanı optimizasyonundan DevOps orkestrasyonuna kadar sistemin tüm yaşam döngüsüyle ilgileniyorum. Geleneksel yazılım geliştirme süreçlerine ek olarak; RAG mimarileri, MCP'ler ve AI Agent'lar ile otonom çözümler geliştiriyorum. Yazılım geliştirme sürecindeki temel amacım, ölçeklenebilir altyapılarla yapay zeka çözümlerini verimli bir şekilde bir araya getirmek.</p>
   📫 <b>Contact:</b> <a href="https://www.linkedin.com/in/eraycan-sivri-827997226/">linkedin/eraycan-sivri</a>
 </div>
 
