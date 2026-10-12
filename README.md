@@ -1,13 +1,14 @@
 <div align="center">
   <a href="https://github.com/Eraycann">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Hello+There!+%F0%9F%91%BD;I'm+Eraycan+%F0%9F%98%BC;Aspiring+Software+Architect+%7C+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Hello+There!+%F0%9F%91%BD;I'm+Eraycan+%F0%9F%98%BC;" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <p><b>Bilgisayar Mühendisliğiyim </b> Backend tarafında Java ve Spring Boot ağırlıklı çalışıyor, veritabanı optimizasyonundan DevOps orkestrasyonuna kadar sistemin tüm yaşam döngüsüyle ilgileniyorum. Geleneksel yazılım geliştirme süreçlerine ek olarak; RAG mimarileri, MCP'ler ve AI Agent'lar ile otonom çözümler geliştiriyorum. Yazılım geliştirme sürecindeki temel amacım, ölçeklenebilir altyapılarla yapay zeka çözümlerini verimli bir şekilde bir araya getirmek.</p>
+  <p><b>💪🏻 I'm Co-Founder @SEGNOX | Java Backend & AI Solutions Engineer
+ </b></p>
   📫 <b>Contact:</b> <a href="https://www.linkedin.com/in/eraycan-sivri-827997226/">linkedin/eraycan-sivri</a>
 </div>
 
